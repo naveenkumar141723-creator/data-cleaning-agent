@@ -1,0 +1,10 @@
+product,region,sales,revenue
+Laptop,North,,12000
+Phone,South,25,15000
+Tablet,East,15,7500
+Laptop,South,8,9600
+Phone,North,30,18000
+Tablet,West,12,6000
+Laptop,East,12,14400
+Phone,West,20,12000
+Tablet,North,18,9000
